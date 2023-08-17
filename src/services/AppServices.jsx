@@ -4,7 +4,7 @@ export const END_POINTS = {
   everThing:'everything'
 
 }
-const appNewsKey = '1e71f2d95be2495c96bbebe3a874060c'
+const appNewsKey = '319669f79bd34723be51e54af5e55dee'
 
 export function getNews(category,fromDate,pageNumber,pageLimit) {
   const params = {

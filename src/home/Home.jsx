@@ -260,11 +260,13 @@ const styles = StyleSheet.create({
   },
   articleTitle: {
     fontWeight: "bold",
+    color:'#000',
     fontSize: 16,
     marginRight: RFValue(60),
   },
   articleDescription: {
     marginTop: 5,
+    color:'#000',
     marginRight: RFValue(60),
   },
   articlePublishedAt: {
